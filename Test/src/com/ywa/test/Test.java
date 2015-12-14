@@ -19,6 +19,9 @@ public class Test {
 		
 		//TODO: todo comment
 		System.out.println("TODO: comment");
+		
+		// second time push
+		System.out.println("Second Push");
 	}
 	
 	public static boolean checkList(List<Employee> employees) {
